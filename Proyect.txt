@@ -1,0 +1,4 @@
+Crear un programa par consulta en bases de datos con formato .MDB y arroje si el patron cotizo a cierto trabajador en un periodo en concreto.
+El programa debe recorrer multiples carpetas hasta llegar a la base de datos, hacer la consulta por medio del registro patronal y verificar si el nombre del trabajador
+se encuentra en la base de datos.
+La base de datos esta en formato .MDB y contiene cuatro tablas
